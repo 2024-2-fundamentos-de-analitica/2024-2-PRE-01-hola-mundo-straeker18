@@ -14,7 +14,6 @@ def pregunta_02():
 
     """
 
-    return
 
 
 if __name__ == "__main__":
